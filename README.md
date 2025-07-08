@@ -101,9 +101,9 @@ store.removeOutdatedBooks(5, 2025);
 ## Program Screenshots
 
 ### Complete Program Execution
-![Run Example](Screenshots/Running program.png)
+![Run from the Main](screenshots/Runningprogram.png.png)
 
 ### Complete main program function
-![main function](Quantum book store full test.png)
+![main function](screenshots/Quantumbookstorefulltest.png)
 
 
